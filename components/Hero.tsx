@@ -1,9 +1,7 @@
 import React from "react";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 import BackgroundCircles from "./BackgroundCircles";
-import Image from "next/image";
 import Link from "next/link";
-import ProfileImage from "../assets/profile12.jpeg";
 import { PageInfo } from "../typings";
 import { urlFor } from "../sanity";
 
