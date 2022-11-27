@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Skillss from "./Skillss";
-import { PageInfo, Skills as Skilltype } from "../typings";
 
 type Props = {};
 
